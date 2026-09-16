@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：界面文档
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 071 篇 - 百家乐Ai预测分析工具：让页面标题直接说明当前数据范围](https://github.com/TGmszrcsz/baccarat-ai-071) ｜ [下一篇：第 073 篇 - 百家乐Ai预测分析工具：移动端阅读时优先保住关键字段](https://github.com/TGmszrcsz/baccarat-ai-073)
+
+<!-- article-chain:end -->
+
 同一颜色在两张图里代表不同类别，读者容易混淆。本篇围绕“图例与颜色说明应保持前后一致”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、先看容易混淆的地方
